@@ -1,0 +1,29 @@
+.overflow1 {
+  height: 150px;
+  width: 150px;
+  background-color: orange;
+  /* otomatis  membuat scroll*/
+  overflow: scroll;
+}
+
+.overflow2 {
+  height: 150px;
+  width: : 150px;
+  background-color: grey;
+  /* membuat scroll ketika text nya terpotong */
+  overflow: auto;
+}
+
+.overflow3 {
+  height: 150px;
+  width: : 150px;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+.overflow4 {
+  height: 150px;
+  width: : 150px;
+  background-color: pink;
+  overflow-x: scroll;
+}

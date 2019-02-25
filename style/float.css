@@ -1,0 +1,11 @@
+.img-description {
+  width: 150px;
+  height: 150px;
+  /* untuk mengatur tata letak gambar*/
+  float: right;
+}
+
+h1 {
+  /* otomatis posisinya akan sejajar horizontal */
+  display: inline-block;
+}

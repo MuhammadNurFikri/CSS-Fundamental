@@ -1,0 +1,38 @@
+/* berdasarkan element */
+h1 {
+  color: blue;
+}
+
+/* berdasarkan id */
+#judul {
+  color: orange;
+}
+
+ /* berdasarkan class */
+ h2.belajar{
+   color: green;
+ }
+
+h3, h4, h5 {
+  color: grey;
+}
+
+.warnaKelas {
+  color: red;
+}
+
+h2 {
+  color: #8a2be2;
+}
+
+#idwarna {
+  background-color: black;
+}
+
+body {
+  /* background-image: url(../img/1.jpg); */
+  /* supaya tidak berulang / full */
+  /* background-repeat: no-repeat;
+  background-position: center; */
+  background: orange url("../img/1.jpg") no-repeat center; 
+}

@@ -1,0 +1,34 @@
+.borderCSS {
+  /* titik */
+  /* border-style: dotted; */
+
+  /* strip */
+  /* border-style: dashed; */
+
+  /* garis tebal */
+  /* border-style: solid; */
+
+  /* garis dua */
+  /* border-style: double; */
+
+  /* garis abu-abu */
+  /* border-style: groove; */
+
+  /* garis abu-abu tebal */
+  /* border-style: ridge; */
+
+  /* garis kiri atas */
+  /* border-style: inset; */
+
+  /* kanan baawah */
+  /* border-style: outset; */
+
+  /* menghilangkan garis */
+  /* border-style: none; */
+
+  /* menyembunyikan */
+  /* border-style: hidden; */
+
+  /* border-style: dotted dashed none double; */
+  /* border-style: dotted dashed; */
+}

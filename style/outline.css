@@ -1,0 +1,16 @@
+.outlineCSS
+{
+  margin: 50px;
+
+  /* outline-style: solid;
+  outline-color: blue;
+  outline-width: 20px; */
+
+  /* outline: 20px solid red; */
+  outline: red solid 20px;
+  outline-offset: 25px;
+
+  border-style: dashed;
+  border-color: orange;
+  border-width: 10px;
+}

@@ -1,0 +1,45 @@
+/* position default : static */
+.kotak
+{
+  /* bergerak dari berdasarkan posisi sebelumnya  */
+  position: relative;
+
+/* memberikan jarak antara dirinya dengan element diatasnya */
+  /* margin-top: 120px; */
+
+  /* memberikan jarak dari element sebelunya nya dia berada */
+  /* top: 120px; */
+  background-color: orange;
+}
+
+.belajar2
+{
+  /* bergerak berdasarkan posisi element yang pembungkus nya*/
+  position: absolute;
+  /* top: 0; */
+  background-color: blue;
+}
+
+div
+{
+  position: relative;
+  width: 100px;
+  height: 100px;
+  background-color: grey;
+}
+
+.fix
+{
+  background-color: green;
+  position: fixed;
+  top: 40px;
+  left: 80px;
+}
+
+.stic
+{
+  background-color: grey;
+  /* berfungsi setelah di scroll kebawah */
+  position: sticky;
+  top: 40px;
+}
